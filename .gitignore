@@ -13,6 +13,7 @@
 
 # Docker
 /mysql-data
+mysql-data
 
 # IDE и редакторы
 .vscode/
