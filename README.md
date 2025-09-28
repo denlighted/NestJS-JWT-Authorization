@@ -5,4 +5,4 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <h2>Simple JWT Authorization with NodeJS and NestJS</h2>
+  <h2>Simple JWT Authorization with NodeJS, NestJS and Swagger documentation</h2>
