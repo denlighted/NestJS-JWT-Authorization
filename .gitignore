@@ -1,13 +1,11 @@
-# Скомпилированные файлы
+
 /dist
 /node_modules
 /*.log
 
-# Персональные и чувствительные данные
 .env
 .env.*.local
 
-# Prisma
 /prisma/migrations
 /generated
 
@@ -15,22 +13,20 @@
 /mysql-data
 mysql-data
 
-# IDE и редакторы
 .vscode/
 .idea/
 *.iml
 
-# ОС
+
 .DS_Store
 Thumbs.db
 
-# Тестовые и временные файлы
 coverage
 *.tmp
 *.swp
 *.swo
 
-# Lock-файлы (если используешь только один менеджер пакетов)
+
 yarn.lock
 package-lock.json
 pnpm-lock.yaml
